@@ -1,0 +1,6 @@
+{
+  "name": "Chaaye Khana Multan",
+  "description": "Premium Café website with an Interactive AI Tea Guide, table reservations, interactive seating, and direct WhatsApp ordering system tailored for Multan.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
